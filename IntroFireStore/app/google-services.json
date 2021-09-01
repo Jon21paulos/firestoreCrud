@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "730434680984",
+    "firebase_url": "https://introfirestore-ed979.firebaseio.com",
+    "project_id": "introfirestore-ed979",
+    "storage_bucket": "introfirestore-ed979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730434680984:android:2956ba1af60a2cd7",
+        "android_client_info": {
+          "package_name": "com.bawp.introfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730434680984-ec7rgfnbitho9t1b0snjrs9503au0q6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bawp.introfirestore",
+            "certificate_hash": "acb3054637d3c81af68dcd488cb66fba62bf9dee"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6ytdt5B61Oyg6giArW1ewZmaNzjrTbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730434680984-k8464hpdr6826qamrlhogtlufnrvmbsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntroFireStore</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="save">Save</string>
+    <string name="enter_thoughts">Enter thoughts</string>
+    <string name="show_datatext">Show Data</string>
+    <string name="update_data">Update all! </string>
+    <string name="delete_thought">Delete Thought</string>
+</resources>
